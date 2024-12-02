@@ -1,0 +1,20 @@
+body{
+    background-color: bisque;
+}
+h1{
+    font-size: 30px;
+    color: aquamarine;
+}
+h2{
+    font-size: 20px;
+    color: aqua;
+}
+.big{
+    font-family: 'Courier New', Courier, monospace;
+    color: orange;
+}
+.h2.uppercase{
+    font-size: large;
+    color: blueviolet;
+}
+
